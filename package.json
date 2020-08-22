@@ -1,0 +1,19 @@
+{
+  "name": "filterapp",
+  "version": "1.0.0",
+  "description": "Apply filter to images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayant9999/FilterApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayant9999/FilterApp/issues"
+  },
+  "homepage": "https://github.com/Jayant9999/FilterApp#readme"
+}
